@@ -1,0 +1,11 @@
+Index: pidgin-2.5.0/libpurple/protocols/oscar/oscar.h
+===================================================================
+--- pidgin-2.5.0.orig/libpurple/protocols/oscar/oscar.h	2008-08-19 01:53:38.000000000 +0000
++++ pidgin-2.5.0/libpurple/protocols/oscar/oscar.h	2008-08-27 11:15:58.000000000 +0000
+@@ -110,7 +110,7 @@
+ /**
+ * Maximum length for the password of an ICQ account
+ */
+-#define MAXICQPASSLEN 8
++#define MAXICQPASSLEN 16
+ 

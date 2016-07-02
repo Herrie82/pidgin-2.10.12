@@ -1,0 +1,4 @@
+sanitize-configure.ac.patch -p1
+purple-OE-branding-25.patch -p1
+pidgin-cross-python-265.patch -p1
+ICQ-pw-length.patch -p1
